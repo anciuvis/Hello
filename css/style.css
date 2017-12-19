@@ -1,0 +1,48 @@
+ul.navig{
+  list-style: none;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+
+li.navig{
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-right: 10px;
+}
+
+.arial{
+  font-family: arial;
+}
+
+.comic{
+  font-family: comic sans-serif;
+}
+.grey{
+  color: #444;
+}
+
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+.green{
+  color: green;
+}
+
+.back-red{
+  background: red;
+}
+
+.back-blue{
+  background: blue;
+}
+
+.back-green{
+  background: green;
+}
